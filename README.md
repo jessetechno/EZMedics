@@ -1,1 +1,1 @@
-# EasyMedics
+# EZMedics
